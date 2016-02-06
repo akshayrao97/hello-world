@@ -1,2 +1,3 @@
 # hello-world
-Testing...testing
+Testing...testing\n
+Lorem ipsum dolor sit amet
